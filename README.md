@@ -1,1 +1,1 @@
-# Repo by Võ Ngọc Bằng
+# Repo

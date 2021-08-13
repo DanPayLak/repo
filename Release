@@ -1,0 +1,11 @@
+Origin: •4105•
+Label: •4105• Official Repo
+Suite: stable 
+Version: 1.0 
+Codename: ios 
+Architectures: iphoneos-arm 
+Components: main 
+Description: Repository of Tweaks
+MD5Sum:
+ 019116bde7d45e5f12ea124f745c3e40 Packages
+ 6d97c32aeab67ca779620d92e3c40ae0 Packages.bz2

@@ -1,0 +1,13 @@
+Package: com.vnb.neptune
+Name: Neptune for Iphone
+Version: 1.2
+Size: 145428 bytes
+Architecture: iphoneos-arm
+Description:  Fake X cho tất cả thiết bị
+Maintainer: VNB
+Author: Duraid Abdul
+Section: Tweaks
+MD5sum: 797b118aeaf8e58ec34d215a5b305a65
+SHA1sum: 7c52ae2cb1c2f740d7447db2274319968d6caf9b
+SHA256sum: 667d8bf485ebf9bee7ae42b884497ed78964abbc5fdf0cbebd5b36e34b7825b0
+Filename: debs//com.vnb.neptune_1.2_iphoneos-arm.deb
